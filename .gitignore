@@ -1,4 +1,4 @@
-vdata/raw/
+data/raw/
 *.env
 .ipynb_checkpoints/
 __pycache__/
